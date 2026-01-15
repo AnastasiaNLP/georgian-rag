@@ -1,0 +1,370 @@
+1. French
+{
+  "query": "Les plus beaux endroits en Géorgie",
+  "language": "",
+  "top_k": 5
+}
+{
+  "response": "# 🇬🇪 Les Plus Beaux Endroits de Géorgie\n\nLa Géorgie est un véritable joyau du Caucase qui offre une diversité époustouflante de paysages et de trésors culturels !\n\n## 🏔️ **Merveilles Naturelles**\n\n### Lac Levani - Le Diamant des Montagnes\nPerché à 2565 mètres d'altitude sur la crête d'Abul-Samsari, le **lac Levani** est l'un des plus beaux lacs de haute montagne de Géorgie. Ses eaux cristallines d'un bleu profond reflètent parfaitement le ciel et les nuages, créant un spectacle magique au cœur des pentes volcaniques de la région de Javakheti. C'est un paradis pour les photographes et les amoureux de nature sauvage !\n\n## 🏛️ **Patrimoine Culturel à Tbilissi**\n\n### Avenue Rustaveli - Le Cœur Culturel\nLa capitale géorgienne abrite des institutions culturelles exceptionnelles :\n\n- **Musée National de Géorgie** : Le plus grand complexe muséal du pays, installé dans un magnifique bâtiment du début du XXe siècle conçu par l'architecte Nikolai Severov\n- **Musée Géorgien des Beaux-Arts** : Institution moderne fondée en 2018, dédiée à l'art géorgien contemporain\n\n## 📸 **Conseils Pratiques**\n\n✨ **Meilleure période** : Mai-octobre pour les lacs de montagne, toute l'année pour Tbilissi\n🚗 **Transport** : 4x4 recommandé pour les sites montagneux\n📷 **Photo** : Lever et coucher du soleil offrent les plus belles lumières\n\nLa Géorgie vous promet des expériences inoubliables entre traditions millénaires et paysages à couper le souffle !\n\n---\n\n### ⚠️ Important Information:\n\n🚌 **Tip**: Public transport routes may change. Verify current schedules and routes.",
+  "language": "",
+  "sources": [
+    {
+      "id": "1548",
+      "name": "Georgian Museum of Fine Arts",
+      "location": "Tbilisi",
+      "score": 0.5842622950819673,
+      "category": "Museum",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1548.jpg",
+      "description": "The Georgian Museum of Fine Arts, located on Rustaveli Avenue in central Tbilisi, is a modern cultural institution dedicated to preserving and promoting Georgian art of the 20th and 21st centuries. Fo"
+    },
+    {
+      "id": "130",
+      "name": "Levani Lake",
+      "location": "Javakheti",
+      "score": 0.4780327868852459,
+      "category": "Lake",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/130.jpg",
+      "description": "Levani Lake is one of Georgia’s most beautiful high-mountain lakes, located on the Abul–Samsari Ridge in the Samtskhe–Javakheti region at an altitude of about 2565 meters. Hidden among rolling volcani"
+    },
+    {
+      "id": "1010",
+      "name": "Georgian National Museum",
+      "location": "Tbilisi",
+      "score": 0.20959681953751677,
+      "category": "Museums & Cultural Institutions",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1010.jpg",
+      "description": "The Georgian National Museum is the largest museum complex in the country, uniting Georgia’s leading historical, archaeological, ethnographic, and art collections. Its main exhibition is located in Tb"
+    },
+    {
+      "id": "36",
+      "name": "Sabaduri Forest",
+      "location": "Mtskheta",
+      "score": 0.1437758959748232,
+      "category": "Forest / natural area (within a national park)",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/36.jpg",
+      "description": "Sabaduri Forest is one of the most enchanting natural areas in Georgia and is listed among the 20 most beautiful forests in the world. Located in the Mtskheta-Mtianeti Region, within the municipalitie"
+    },
+    {
+      "id": "32",
+      "name": "Lake Tabatskuri",
+      "location": "Borjomi",
+      "score": 0.08480448609517884,
+      "category": "Lake",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/32.jpg",
+      "description": "Lake Tabatskuri is one of the most remarkable and scenic high-mountain lakes in Georgia, located on the expansive Javakheti Plateau between the Trialeti and Samsari mountain ranges. Situated at an ele"
+    }
+  ],
+  "metadata": {
+    "duration": 14.65,
+    "num_sources": 5,
+    "timestamp": 1768371923.1524198,
+    "detected_language": "fr",
+    "target_language": "fr",
+    "query_was_translated": true,
+    "search_query": "The most beautiful places in Georgia",
+    "search_results_count": 5,
+    "enrichment_enabled": true,
+    "enrichment_sources": [],
+    "processing_time": 14.65159,
+    "model_used": "unknown",
+    "total_tokens": 0,
+    "with_disclaimer": false,
+    "translation_service": "groq"
+  }
+}
+2.Russian
+{
+  "query": "Что посмотреть в Батуми?",
+  "language": "",
+  "top_k": 5
+}
+{
+  "response": "# 🌊 Что посмотреть в Батуми - жемчужине Черного моря!\n\nБатуми - это волшебный город, где современность танцует с историей под шум морских волн! Вот самые захватывающие места, которые обязательно стоит посетить:\n\n## 🎭 Культурные сокровища\n\n**Музей Ильи Чавчавадзе** на улице Грибоедова, 5 - настоящая жемчужина для любителей грузинской литературы! Здесь вы погрузитесь в мир одного из величайших грузинских мыслителей XIX века через уникальные фотографии, документы и произведения искусства.\n\n## 🦁 Семейные развлечения\n\n**Контактный зоопарк \"Zootopia\"** в Batumi Mall (улица Зураба Горгиладзе, 90б, 4-й этаж) - идеальное место для семейного отдыха! Здесь можно не только наблюдать за животными, но и взаимодействовать с ними напрямую. Дети будут в восторге! 🐰\n\n## 🏛️ Архитектурные чудеса\n\nОбязательно прогуляйтесь по знаменитому **бульвару Батуми** с его танцующими фонтанами и современными небоскребами. Не пропустите:\n- 🗼 Башню Alphabet Tower\n- 🎡 Колесо обозрения \n- 🏰 Крепость Гонио поблизости\n\n## 💡 Практические советы\n\n- Лучшее время для посещения: май-октябрь\n- Зоопарк работает ежедневно, билеты доступные\n- Музей Чавчавадзе предлагает экскурсии на грузинском и английском языках\n\nБатуми покорит ваше сердце своим уникальным сочетанием морского очарования, богатой культуры и современного комфорта! 🌟\n\n---\n\n### ⚠️ Important Information:\n\n⚠️ **Note**: Prices may change. Please verify current costs before visiting.",
+  "language": "",
+  "sources": [
+    {
+      "id": "237",
+      "name": "Музейный комплекс Цинандали",
+      "location": "Кахетия",
+      "score": 0.5842622950819673,
+      "category": "Историко-культурный комплекс / музей-усадьба / винодельческое наследие",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/237.jpg",
+      "description": "Музейный комплекс Цинандали расположен в селе Цинандали Телавского муниципалитета и объединяет исторический дворцовый ансамбль князей Чавчавадзе, декоративный сад европейского типа и одну из первых ви"
+    },
+    {
+      "id": "1060",
+      "name": "Batumi Petting Zoo “Zootopia”",
+      "location": "Batumi",
+      "score": 0.3983606557377049,
+      "category": "Zoos, family activities",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1060.jpg",
+      "description": "The Batumi petting zoo “Zootopia” is located in Adjara, in the city of Batumi, at Zurab Gorgiladze St. 90b (4th floor of Batumi Mall). This interactive zoo allows visitors not only to observe animals "
+    },
+    {
+      "id": "1054",
+      "name": "Ilia Chavchavadze Museum in Batumi",
+      "location": "Batumi",
+      "score": 0.21756102732886162,
+      "category": "Museum",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1054.jpg",
+      "description": "The Ilia Chavchavadze Museum in Batumi is located in Adjara, at 5 Griboedov Street, and presents materials dedicated to the life and work of one of Georgia’s most influential 19th-century intellectual"
+    },
+    {
+      "id": "1013",
+      "name": "Национальная галерея имени Димитрия Шеварднадзе",
+      "location": "Тбилиси",
+      "score": 0.21233475511913294,
+      "category": "Музеи и культурные учреждения",
+      "image_url": null,
+      "description": "Национальная галерея имени Димитрия Шеварднадзе — одно из главных выставочных пространств Грузии, расположенное на проспекте Руставели в Тбилиси и входящее в состав Грузинского национального музея. Га"
+    },
+    {
+      "id": "1714",
+      "name": "Боржоми",
+      "location": "Боржоми",
+      "score": 0.14340629073879987,
+      "category": "город / курортный город",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1714.jpg",
+      "description": "Боржоми — курортный город в регионе Самцхе-Джавахети, расположенный в узкой лесистой долине реки Мтквари, среди горных массивов Малого Кавказа. Город известен своим мягким климатом, минеральными источ"
+    }
+  ],
+  "metadata": {
+    "duration": 20.24,
+    "num_sources": 5,
+    "timestamp": 1768372314.1969125,
+    "detected_language": "ru",
+    "target_language": "ru",
+    "query_was_translated": false,
+    "search_query": null,
+    "search_results_count": 5,
+    "enrichment_enabled": true,
+    "enrichment_sources": [],
+    "processing_time": 20.241406,
+    "model_used": "unknown",
+    "total_tokens": 0,
+    "with_disclaimer": false,
+    "translation_service": null
+  }
+}
+3.German
+{
+  "query": "Schönste Orte in Tiflis",
+  "language": "",
+  "top_k": 5
+}
+{
+  "response": "# 🌟 Die Schönsten Orte in Tiflis - Georgiens Bezaubernde Hauptstadt\n\nTiflis, die pulsierende Hauptstadt Georgiens, ist ein wahres Juwel voller architektonischer Wunder und kultureller Schätze! Hier sind die absoluten Highlights, die Sie verzaubern werden:\n\n## 🎨 **Georgisches Museum der Bildenden Künste**\nDirekt an der berühmten Rustaveli-Allee gelegen, ist dieses moderne Kulturzentrum ein Muss für Kunstliebhaber! Das 2018 eröffnete Museum widmet sich der georgischen Kunst des 20. und 21. Jahrhunderts und bietet einen faszinierenden Einblick in die zeitgenössische Kunstszene Georgiens.\n\n## 🌲 **Sabaduri-Wald - Ein Naturwunder vor den Toren der Stadt**\nNur eine kurze Fahrt von Tiflis entfernt erwartet Sie einer der **20 schönsten Wälder der Welt**! Der Sabaduri-Wald im Tbilisi-Nationalpark ist ein magischer Ort, wo sich jahrhundertealte Bäume zu einem grünen Kathedralendach vereinen. Perfekt für Wanderungen und Naturerlebnisse!\n\n## 🏛️ **Weitere Unverzichtbare Highlights:**\n- **Altstadt (Dzveli Tbilisi)** - Kopfsteinpflasterstraßen und traditionelle Balkone\n- **Narikala-Festung** - Spektakuläre Aussicht über die Stadt\n- **Schwefelbäder von Abanotubani** - Entspannung in heißen Quellen\n- **Rustaveli-Allee** - Das kulturelle Herz der Stadt\n\n## 💡 **Praktischer Tipp:**\nBeginnen Sie Ihre Erkundung früh am Morgen, um die goldenen Stunden für Fotos zu nutzen und die Menschenmassen zu vermeiden!\n\nTiflis vereint auf einzigartige Weise europäische Eleganz mit orientalischem Charme - eine Stadt, die Ihr Herz im Sturm erobern wird! 🇬🇪✨\n\n---\n\n### ⚠️ Important Information:\n\n⚠️ **Note**: Prices may change. Please verify current costs before visiting.",
+  "language": "",
+  "sources": [
+    {
+      "id": "1547",
+      "name": "Грузинский Музей изобразительных искусств",
+      "location": "Тбилиси",
+      "score": 0.4868852459016394,
+      "category": "Музей",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1547.jpg",
+      "description": "Грузинский Музей изобразительных искусств расположен в центре Тбилиси, на проспекте Руставели, и представляет собой современный культурный комплекс, созданный для сохранения и популяризации грузинског"
+    },
+    {
+      "id": "36",
+      "name": "Sabaduri Forest",
+      "location": "Mtskheta",
+      "score": 0.4780327868852459,
+      "category": "Forest / natural area (within a national park)",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/36.jpg",
+      "description": "Sabaduri Forest is one of the most enchanting natural areas in Georgia and is listed among the 20 most beautiful forests in the world. Located in the Mtskheta-Mtianeti Region, within the municipalitie"
+    },
+    {
+      "id": "1548",
+      "name": "Georgian Museum of Fine Arts",
+      "location": "Tbilisi",
+      "score": 0.18758799799449052,
+      "category": "Museum",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1548.jpg",
+      "description": "The Georgian Museum of Fine Arts, located on Rustaveli Avenue in central Tbilisi, is a modern cultural institution dedicated to preserving and promoting Georgian art of the 20th and 21st centuries. Fo"
+    },
+    {
+      "id": "92",
+      "name": "Rike Park",
+      "location": "Tbilisi",
+      "score": 0.12002120516938669,
+      "category": "Парк",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/92.jpg",
+      "description": "Rike Park is one of the most modern and recognizable parks in Tbilisi, located on the left bank of the Kura River at the foot of the Narikala Fortress and connected to the Old Town by the iconic glass"
+    },
+    {
+      "id": "1665",
+      "name": "Merab Kostava Memorial House-Museum",
+      "location": "Tbilisi",
+      "score": 0.08430590845857368,
+      "category": "Museum",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1665.jpg",
+      "description": "The Merab Kostava Memorial House-Museum is located in the Vera district of Tbilisi, in a small house where one of the most influential figures of Georgia’s 20th-century national liberation movement wa"
+    }
+  ],
+  "metadata": {
+    "duration": 16.08,
+    "num_sources": 5,
+    "timestamp": 1768372627.0139222,
+    "detected_language": "de",
+    "target_language": "de",
+    "query_was_translated": true,
+    "search_query": "Most beautiful places in Tbilisi",
+    "search_results_count": 5,
+    "enrichment_enabled": true,
+    "enrichment_sources": [],
+    "processing_time": 16.078398,
+    "model_used": "unknown",
+    "total_tokens": 0,
+    "with_disclaimer": false,
+    "translation_service": "groq"
+  }
+}
+4.Georgian
+{
+  "query": "რა არის საუკეთესო ადგილები თბილისში?",
+  "language": "",
+  "top_k": 5
+}
+{
+  "response": "# 🏛️ თბილისის საუკეთესო ადგილები\n\nთბილისი - ეს არის ქალაქი, სადაც ისტორია და თანამედროვეობა ჰარმონიულად ერწყმის ერთმანეთს! აქ თქვენ აღმოაჩენთ უნიკალურ ადგილებს, რომლებიც თქვენს გულს მუდამისთვის მოიპყრობს.\n\n## 🎨 **Georgian Museum of Fine Arts**\nრუსთაველის გამზირზე მდებარე ეს თანამედროვე მუზეუმი ნამდვილი განძია! 2018 წელს გახსნილი მუზეუმი წარმოადგენს XX-XXI საუკუნეების ქართული ხელოვნების უნიკალურ კოლექციას. აქ თქვენ შეძლებთ ქართული კულტურის თანამედროვე განვითარების გაცნობას.\n\n## 🌳 **Rike პარკი**\nმტკვრის მარცხენა ნაპირზე, Narikala ციხის ძირში განლაგებული ეს ულტრათანამედროვე პარკი ქალაქის ყველაზე ცნობადი ადგილია! მშვიდობის ხიდით დაკავშირებული ძველ თბილისთან, Rike პარკი სრულყოფილი ადგილია დასვენებისა და ფოტოების გადაღებისთვის.\n\n## 🌿 **დედა ენა პარკი**\nმშრალი ხიდის მახლობლად მდებარე ეს მწვანე ოაზისი იდეალურია მშვიდი სეირნობისთვის. პარკი წარმოადგენს ისტორიულ კონტექსტთან შერწყმული რეკრეაციული ზონების სრულყოფილ მაგალითს.\n\n## 💡 **პრაქტიკული რჩევები:**\n- დაიწყეთ სეირნობა Rustaveli-ს გამზირიდან\n- მშვიდობის ხიდი საღამოს განსაკუთრებით ლამაზია\n- ფოტოებისთვის საუკეთესო დროა მზიანი ამინდი\n\nთბილისი გელოდებათ თავისი უნიკალური ატმოსფეროთი! 🇬🇪✨",
+  "language": "",
+  "sources": [
+    {
+      "id": "1548",
+      "name": "Georgian Museum of Fine Arts",
+      "location": "Tbilisi",
+      "score": 0.5842622950819673,
+      "category": "Museum",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1548.jpg",
+      "description": "The Georgian Museum of Fine Arts, located on Rustaveli Avenue in central Tbilisi, is a modern cultural institution dedicated to preserving and promoting Georgian art of the 20th and 21st centuries. Fo"
+    },
+    {
+      "id": "92",
+      "name": "Rike Park",
+      "location": "Tbilisi",
+      "score": 0.4780327868852459,
+      "category": "Парк",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/92.jpg",
+      "description": "Rike Park is one of the most modern and recognizable parks in Tbilisi, located on the left bank of the Kura River at the foot of the Narikala Fortress and connected to the Old Town by the iconic glass"
+    },
+    {
+      "id": "302",
+      "name": "Deda Ena Park",
+      "location": "Tbilisi",
+      "score": 0.1712730310046797,
+      "category": "Urban Parks",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/302.jpg",
+      "description": "Deda Ena Park is one of the central urban parks of Tbilisi, located near the Dry Bridge between Mostotsminda and Kudiara streets, and represents a green public space that combines walking areas, recre"
+    },
+    {
+      "id": "1547",
+      "name": "Грузинский Музей изобразительных искусств",
+      "location": "Тбилиси",
+      "score": 0.13362555757332412,
+      "category": "Музей",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1547.jpg",
+      "description": "Грузинский Музей изобразительных искусств расположен в центре Тбилиси, на проспекте Руставели, и представляет собой современный культурный комплекс, созданный для сохранения и популяризации грузинског"
+    },
+    {
+      "id": "1665",
+      "name": "Merab Kostava Memorial House-Museum",
+      "location": "Tbilisi",
+      "score": 0.12160092618900589,
+      "category": "Museum",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1665.jpg",
+      "description": "The Merab Kostava Memorial House-Museum is located in the Vera district of Tbilisi, in a small house where one of the most influential figures of Georgia’s 20th-century national liberation movement wa"
+    }
+  ],
+  "metadata": {
+    "duration": 25.3,
+    "num_sources": 5,
+    "timestamp": 1768372707.611768,
+    "detected_language": "ka",
+    "target_language": "ka",
+    "query_was_translated": true,
+    "search_query": "What are the best places in Tbilisi?",
+    "search_results_count": 5,
+    "enrichment_enabled": true,
+    "enrichment_sources": [],
+    "processing_time": 25.302716,
+    "model_used": "unknown",
+    "total_tokens": 0,
+    "with_disclaimer": false,
+    "translation_service": "groq"
+  }
+}
+5.Spanish
+{
+  "query": "Mejores fortalezas en Georgia",
+  "language": "",
+  "top_k": 5
+}
+{
+  "response": "# 🏰 Las Mejores Fortalezas de Georgia: Guardianes de la Historia\n\n¡Georgia es un verdadero tesoro para los amantes de las fortalezas medievales! Estas imponentes estructuras defensivas narran siglos de historia fascinante y ofrecen vistas espectaculares.\n\n## 🌟 Fortalezas Imprescindibles\n\n### **Fortaleza de Armazi** - Mtskheta\nEsta majestuosa fortaleza medieval se alza sobre una cresta rocosa escarpada, a solo 3 kilómetros al oeste de Mtskheta. Construida entre los siglos XIII y XV, controlaba una ruta comercial crucial que conectaba el Cáucaso con regiones vecinas. Sus masivos muros de piedra y su ubicación estratégica la convierten en una experiencia inolvidable para cualquier visitante.\n\n### **Fortaleza de Gori** - Gori\nSituada en el corazón de Gori, esta ciudadela medieval corona una colina rocosa y representa uno de los bastiones defensivos más importantes del este de Georgia. ¡Las evidencias arqueológicas revelan que aquí existieron fortificaciones desde los siglos V-IV! Su posición dominante ofrece panorámicas increíbles de la ciudad.\n\n## 📸 Experiencia Visual Única\nLas fotografías disponibles capturan la grandeza arquitectónica de estas fortalezas, mostrando sus impresionantes muros de piedra contra el dramático paisaje georgiano.\n\n## 💡 Consejos Prácticos\n- **Mejor época**: Primavera y otoño para clima ideal\n- **Calzado**: Usa zapatos cómodos para caminar por terreno irregular\n- **Tiempo recomendado**: 2-3 horas por fortaleza\n\n¡Estas fortalezas te transportarán a épocas medievales llenas de leyendas y batallas épicas! 🗡️✨\n\n---\n\n### ⚠️ Important Information:\n\n🚌 **Tip**: Public transport routes may change. Verify current schedules and routes.",
+  "language": "",
+  "sources": [
+    {
+      "id": "1010",
+      "name": "Georgian National Museum",
+      "location": "Tbilisi",
+      "score": 0.5842622950819673,
+      "category": "Museums & Cultural Institutions",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1010.jpg",
+      "description": "The Georgian National Museum is the largest museum complex in the country, uniting Georgia’s leading historical, archaeological, ethnographic, and art collections. Its main exhibition is located in Tb"
+    },
+    {
+      "id": "1250",
+      "name": "Armazi Fortress",
+      "location": "Mtskheta",
+      "score": 0.4780327868852459,
+      "category": "Fortress",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1250.jpg",
+      "description": "Armazi Fortress is a major medieval stronghold of Georgia, located on a steep rocky ridge three kilometers west of Mtskheta. Constructed between the 13th and 15th centuries, it once controlled an impo"
+    },
+    {
+      "id": "512",
+      "name": "Gori Fortress",
+      "location": "Gori",
+      "score": 0.16900199703680482,
+      "category": "Fortress",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/512.jpg",
+      "description": "Gori Fortress is a medieval citadel situated on a high rocky hill in the center of Gori, in Georgia’s Shida Kartli region, and represents one of the historically important defensive strongholds of eas"
+    },
+    {
+      "id": "1009",
+      "name": "Грузинский национальный музей",
+      "location": "Тбилиси",
+      "score": 0.14228602791778494,
+      "category": "Музеи и культурные учреждения",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/1009.jpg",
+      "description": "Грузинский национальный музей — крупнейший музейный комплекс страны, объединяющий ведущие исторические, археологические, этнографические и художественные собрания Грузии. Центральная экспозиция распол"
+    },
+    {
+      "id": "526",
+      "name": "Ananuri Fortress",
+      "location": "Mtskheta",
+      "score": 0.12190329406641716,
+      "category": "Fortress",
+      "image_url": "https://res.cloudinary.com/dxwxd0gfb/image/upload/v1764980922/georgian_attractions/georgian_attractions/526.jpg",
+      "description": "Ananuri Fortress, rising at the confluence of the Aragvi and Vedzatkhevi rivers, is one of the best-preserved Georgian defensive complexes, combining architectural austerity and the strategic signific"
+    }
+  ],
+  "metadata": {
+    "duration": 15.88,
+    "num_sources": 5,
+    "timestamp": 1768372859.8104405,
+    "detected_language": "es",
+    "target_language": "es",
+    "query_was_translated": true,
+    "search_query": "Best fortresses in Georgia",
+    "search_results_count": 5,
+    "enrichment_enabled": true,
+    "enrichment_sources": [],
+    "processing_time": 15.882191,
+    "model_used": "unknown",
+    "total_tokens": 0,
+    "with_disclaimer": false,
+    "translation_service": "groq"
+  }
+}

@@ -1,0 +1,86 @@
+groups:
+  - name: georgian_rag_alerts
+    interval: 30s
+    rules:
+      # high error rate
+      - alert: HighErrorRate
+        expr: |
+          rate(rag_errors_total[5m]) > 0.1
+        for: 2m
+        labels:
+          severity: critical
+        annotations:
+          summary: "High error rate detected"
+          description: "Error rate is {{ $value }} errors/sec (threshold: 0.1)"
+
+      # slow response time
+      - alert: SlowResponseTime
+        expr: |
+          histogram_quantile(0.95, 
+            rate(rag_request_duration_seconds_bucket[5m])
+          ) > 10
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "95th percentile response time is high"
+          description: "95% of requests take longer than {{ $value }}s"
+
+      # low cache hit rate
+      - alert: LowCacheHitRate
+        expr: |
+          (
+            rate(rag_cache_hits_total[10m]) / 
+            (rate(rag_cache_hits_total[10m]) + rate(rag_cache_misses_total[10m]))
+          ) < 0.5
+        for: 10m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Cache hit rate is low"
+          description: "Cache hit rate is {{ $value | humanizePercentage }} (threshold: 50%)"
+
+      # service down
+      - alert: ServiceDown
+        expr: up{job="georgian_rag"} == 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Georgian RAG service is down"
+          description: "The service has been down for more than 1 minute"
+
+      # too many active requests
+      - alert: TooManyActiveRequests
+        expr: rag_active_requests > 50
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Too many concurrent requests"
+          description: "There are {{ $value }} active requests (threshold: 50)"
+
+      # database connection issues
+      - alert: DatabaseConnectionIssues
+        expr: |
+          rate(rag_errors_total{error_type=~".*Database.*|.*Connection.*"}[5m]) > 0.05
+        for: 2m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Database connection errors detected"
+          description: "Database error rate: {{ $value }} errors/sec"
+
+      # low success rate (< 95%)
+      - alert: LowSuccessRate
+        expr: |
+          (
+            sum(rate(rag_requests_total{status="success"}[5m])) /
+            sum(rate(rag_requests_total[5m]))
+          ) < 0.95
+        for: 5m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Success rate dropped below 95%"
+          description: "Current success rate: {{ $value | humanizePercentage }} (threshold: 95%)"
