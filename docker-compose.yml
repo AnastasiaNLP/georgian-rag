@@ -122,10 +122,10 @@ services:
     ports:
       - "${ALERTMANAGER_PORT:-9093}:9093"
     volumes:
-      - ./monitoring/alertmanager.yml:/etc/alertmanager/alertmanager.yml:ro
+      - ./monitoring/alertmanager.yml.template:/etc/alertmanager/alertmanager.yml.template:ro
       - alertmanager_data:/alertmanager
     command:
-      - '--config.file=/etc/alertmanager/alertmanager.yml'
+      - '--config.file=/etc/alertmanager/alertmanager.yml.template'
       - '--storage.path=/alertmanager'
       - '--web.external-url=http://localhost:9093'
     networks:
@@ -168,7 +168,7 @@ volumes:
   prometheus_data:
     name: georgian_rag_prometheus_data
   alertmanager_data:
-    name: georgian_rag_alertmanager_data
+    name: georgian_rag_alertmanagerex_data
   grafana_data:
     name: georgian_rag_grafana_data
   model_cache:

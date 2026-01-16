@@ -71,4 +71,4 @@ monitoring/alertmanager_data/
 # Temporary files
 tmp/
 temp/
-*.tmp
+*.tmpmonitoring/alertmanager.yml
