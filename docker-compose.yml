@@ -121,21 +121,13 @@ services:
     restart: unless-stopped
     ports:
       - "9093:9093"
-    environment:
-      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
-      - TELEGRAM_CHAT_ID=${TELEGRAM_CHAT_ID}
     volumes:
-      - ./monitoring/alertmanager.yml.template:/etc/alertmanager/alertmanager.yml.template:ro
-      - ./monitoring/init-alertmanager.sh:/init-alertmanager.sh:ro
+      - ./monitoring/alertmanager.yml:/etc/alertmanager/alertmanager.yml:ro
       - alertmanager_data:/alertmanager
-    entrypoint: ["/bin/sh", "-c"]
     command:
-      - |
-        apk add --no-cache gettext
-        envsubst < /etc/alertmanager/alertmanager.yml.template > /etc/alertmanager/alertmanager.yml
-        echo " Alertmanager config generated"
-        cat /etc/alertmanager/alertmanager.yml
-        exec /bin/alertmanager --config.file=/etc/alertmanager/alertmanager.yml --storage.path=/alertmanager --web.external-url=http://localhost:9093
+      - '--config.file=/etc/alertmanager/alertmanager.yml'
+      - '--storage.path=/alertmanager'
+      - '--web.external-url=http://localhost:9093'
     networks:
       - rag_network
     depends_on:
